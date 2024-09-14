@@ -90,6 +90,7 @@ Read the [documentation](https://github.com/s0md3v/roop/wiki) for a deep dive.
 # 启动命令
 
 `python run.py --execution-provider cuda`
+`python run.py --execution-provider coreml`
 
 # 进入虚拟环境
 
